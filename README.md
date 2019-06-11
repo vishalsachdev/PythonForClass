@@ -4,8 +4,6 @@ A 'How to ' Guide for using python for class. Includes an overview of common too
 
 
 
-
-Outline
 ## On device or on the cloud 
 On device installs are clearly a good option for saving cloud hosting costs, and force students to learn how to setup a local environment for their work. Most beginner student projects dont involve big data sets, so most devices should be able to run python. However, if it is a large class, and typically 10% of your students will have trouble with installs, and you dont have a TA, you should plan on sending some time in the first two sessions doing trouble shooting. This luxury of time is typically possible only for 16 week courses.   No trouble shooting/no hardware/software constraints on students. If there is no pedagogical justification for having students learn how to manage on device analytics backend and you can afford it, go for an on cloud solution. For a large class (> 50 students), go for a paid cloud solution or find a free cloud solution. On the other hand, for masters students, I would almost always recommend on cloud, unless they expect to do research or do intensive analytics, where cloud can become expensive. 
 
@@ -14,7 +12,7 @@ My recommendation
 - Short term/ graduate courses- On cloud (saves time) 
 
 ## On Device  
-When choosing on device , you want to pick a package manager which is essential to download/update the packages needed for analysis. For python, you have two basic options - Just install a package manager( miniconda) and install a manager along with many default package s(Anaconda - Big download). My recommendation- Go with miniconda and then have students install the packages they need, as the semester progresses. Less setup time, and teaches students how to get packages for their needs. A detailed comparison can be found at http://deeplearning.lipingyang.org/2018/12/23/anaconda-vs-miniconda-vs-virtualenv/ 
+When choosing on device , you want to pick a package manager which is essential to download/update the packages needed for analysis. For python, you have two basic options - Just install a package manager( miniconda) and install a manager along with many default package s(Anaconda - Big download). My recommendation- Go with miniconda and then have students install the packages they need, as the semester progresses. Less setup time, and teaches students how to get packages for their needs. A detailed comparison can be found at [Link] http://deeplearning.lipingyang.org/2018/12/23/anaconda-vs-miniconda-vs-virtualenv/ 
 
 ## On Cloud 
 
