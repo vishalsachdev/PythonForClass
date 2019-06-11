@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## Python for Class 
+
+A 'How to ' Guide for using python for class. Includes an overview of common tools to run python/jupyter on your computer and on the cloud. This is prepared for teachers interested in using the tools for teaching and not for production /deployment. I will also cover options for integrating with LMS , directed at teachers outside the CS domain. I teach in the GIES College of business at UIUC and am preparing this for faculty here. 
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/vishalsachdev/PythonForClass/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
