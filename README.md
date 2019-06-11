@@ -1,6 +1,6 @@
 # Python for Class 
 
-A 'How to ' Guide for using python for class. Includes an overview of common tools to run python/jupyter on your computer and on the cloud. This is prepared for teachers interested in using the tools for teaching and not for production /deployment. I will also cover options for integrating with LMS , directed at teachers outside the CS domain. I teach in the GIES College of business at UIUC and am preparing this for faculty here. 
+A 'How to ' Guide for using python for class. Includes an overview of common tools to run python/jupyter on your computer and on the cloud. This is prepared for teachers interested in using the tools for teaching and not for production /deployment. I will also cover options for integrating with LMS , directed at teachers outside the CS domain. I teach in the GIES College of business at UIUC and am preparing this for faculty here purely for the purpose of making a decision on the platform  and the tools. No discussion on learning python or any algorithms itself. This guide assumes that the front end will always be a jupyter notebook and you are using python 3 for the analysis. The discussion focuses on 
 
 
 
@@ -12,9 +12,14 @@ My recommendation
 - Short term/ graduate courses- On cloud (saves time) 
 
 ## On Device  
-When choosing on device , you want to pick a package manager which is essential to download/update the packages needed for analysis. For python, you have two basic options - Just install a package manager Conda with some other libraries( miniconda) and install a manager along with many default packages(Anaconda - Big download). My recommendation- Go with miniconda and then have students install the packages they need, as the semester progresses. Less setup time, and teaches students how to get packages for their needs. A detailed comparison can be found at [Link] http://deeplearning.lipingyang.org/2018/12/23/anaconda-vs-miniconda-vs-virtualenv/
+When choosing on device , you want to pick a package manager which is essential to download/update the packages needed for analysis. For python, you have two basic options - Just install a package manager, Conda with some other libraries( miniconda https://docs.conda.io/en/latest/miniconda.html ) OR  install a manager along with many default packages(Anaconda - Big download 3 GB https://www.anaconda.com/distribution/ ). My recommendation- Go with miniconda and then have students install the packages they need, as the semester progresses. Less setup time, and teaches students how to get packages for their needs. A detailed comparison can be found at [Link] http://deeplearning.lipingyang.org/2018/12/23/anaconda-vs-miniconda-vs-virtualenv/
+
+My recommendation- Go with miniconda and then have students install the packages they need. 
 
 ## On Cloud 
+- Free
+Good for shorter projects, and some offer team collaboration features. Several free Google and Microsoft 
+- paid 
 
 
 
