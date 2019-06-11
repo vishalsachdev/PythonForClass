@@ -12,7 +12,7 @@ My recommendation
 - Short term/ graduate courses- On cloud (saves time) 
 
 ## On Device  
-When choosing on device , you want to pick a package manager which is essential to download/update the packages needed for analysis. For python, you have two basic options - Just install a package manager( miniconda) and install a manager along with many default package s(Anaconda - Big download). My recommendation- Go with miniconda and then have students install the packages they need, as the semester progresses. Less setup time, and teaches students how to get packages for their needs. A detailed comparison can be found at [Link] http://deeplearning.lipingyang.org/2018/12/23/anaconda-vs-miniconda-vs-virtualenv/ 
+When choosing on device , you want to pick a package manager which is essential to download/update the packages needed for analysis. For python, you have two basic options - Just install a package manager Conda with some other libraries( miniconda) and install a manager along with many default packages(Anaconda - Big download). My recommendation- Go with miniconda and then have students install the packages they need, as the semester progresses. Less setup time, and teaches students how to get packages for their needs. A detailed comparison can be found at [Link] http://deeplearning.lipingyang.org/2018/12/23/anaconda-vs-miniconda-vs-virtualenv/
 
 ## On Cloud 
 
