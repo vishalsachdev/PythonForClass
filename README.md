@@ -1,6 +1,7 @@
 # Python for Class 
 
-A 'How to ' Guide for using python for class. Includes an overview of common tools to run python/jupyter on your computer and on the cloud. This is prepared for teachers interested in using the tools for teaching and not for production /deployment. I will also cover options for integrating with LMS , directed at teachers outside the CS domain. I teach in the GIES College of business at UIUC and am preparing this for faculty here purely for the purpose of making a decision on the platform  and the tools. No discussion on learning python or any algorithms itself. This guide assumes that the front end will always be a jupyter notebook and you are using python 3 for the analysis. The discussion focuses on 
+A 'How to ' Guide for using python/Jupyter notebooks for class. 
+Includes an overview of common tools to run python/jupyter on your computer and on the cloud. This is prepared for teachers interested in using the tools for teaching and not for production /deployment, directed at teachers outside the CS domain. I will also cover options for integrating with LMS. I teach in the GIES College of business at UIUC and am preparing this for faculty here purely for the purpose of making a decision on the platform  and the tools. No discussion on learning python or any algorithms itself. This guide assumes that the front end will always be a jupyter notebook and you are using python 3 for the analysis. 
 
 
 
