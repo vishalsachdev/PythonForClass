@@ -19,8 +19,18 @@ My recommendation- Go with miniconda and then have students install the packages
 
 ## On Cloud 
 - Free
-Good for shorter projects, and some offer team collaboration features. Several free Google and Microsoft 
-- paid 
+Good for shorter projects, and some offer team collaboration features. Several free Google and Microsoft and others. One of the best comparison of six free options, is at https://www.dataschool.io/cloud-services-for-jupyter-notebook/ . From my perspective, the most important criteria is that the free option should be the following 
+1. compatible or portable to an on device install or another cloud providers( Kaggle fails here, but it is a great option)
+2. reasonable memory/disk space 
+
+Wishlist 
+1. pure jupyter experience 
+2. One click deployment of code as interactive notebooks (mybinder, Google Collab ) - useful for quick start and short workshops. 
+3. LMS integration 
+
+
+
+- Paid 
 
 
 
