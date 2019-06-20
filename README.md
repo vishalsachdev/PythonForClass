@@ -13,7 +13,7 @@ My recommendation
 - Short term/ graduate courses- On cloud (saves time) 
 
 ## On Device  
-When choosing on device , you want to pick a package manager which is essential to download/update the packages needed for analysis. For python, you have two basic options - Just install a package manager, Conda with some other libraries( miniconda https://docs.conda.io/en/latest/miniconda.html ) OR  install a manager along with many default packages(Anaconda - Big download 3 GB https://www.anaconda.com/distribution/ ). My recommendation- Go with miniconda and then have students install the packages they need, as the semester progresses. Less setup time, and teaches students how to get packages for their needs. A detailed comparison can be found at [anaconda-vs-miniconda] (http://deeplearning.lipingyang.org/2018/12/23/anaconda-vs-miniconda-vs-virtualenv/)
+When choosing on device , you want to pick a package manager which is essential to download/update the packages needed for analysis. For python, you have two basic options - Just install a package manager, Conda with some other libraries( [miniconda](https://docs.conda.io/en/latest/miniconda.html) ) OR  install a manager along with many default packages([Anaconda](https://www.anaconda.com/distribution/) - Big download 3 GB  ). My recommendation- Go with miniconda and then have students install the packages they need, as the semester progresses. Less setup time, and teaches students how to get packages for their needs. A detailed comparison can be found at [anaconda-vs-miniconda](http://deeplearning.lipingyang.org/2018/12/23/anaconda-vs-miniconda-vs-virtualenv/)
 
 My recommendation- Go with miniconda and then have students install the packages they need. 
 
@@ -26,7 +26,7 @@ Good for shorter projects, and some offer team collaboration features. Several f
 
 
 My Recommendation 
-- For short courses, or one off analytics exercises , go with hosting the notebook on github and use https://ovh.mybinder.org/ for creating an interactive notebook. Another good option is [Google Colab](https://colab.research.google.com/), which is also well integrated with github. There is a [chrome extension](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=en)  as well, for opening any notebook on github, on Colab with one click. CoLab has a generous compute/memory/storage allocation. 
+- For short courses, or one off analytics exercises , go with hosting the notebook on github and use [MyBinder](https://ovh.mybinder.org/) for creating an interactive notebook. Another good option is [Google Colab](https://colab.research.google.com/), which is also well integrated with github. There is a [chrome extension](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=en)  as well, for opening any notebook on github, on Colab with one click. CoLab has a generous compute/memory/storage allocation. 
 - For semester long courses- Review paid options below. 
 
 
