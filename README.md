@@ -20,8 +20,10 @@ My recommendation- Go with miniconda and then have students install the packages
 ## On Cloud 
 - Free
 Good for shorter projects, and some offer team collaboration features. Several free Google and Microsoft and others. One of the best comparison of six free options, is at https://www.dataschool.io/cloud-services-for-jupyter-notebook/ . From my perspective, the most important criteria is that the free option should be the following 
-1. compatible or portable to an on device install or another cloud providers( Kaggle fails here, but it is a great option)
-2. reasonable memory/disk space 
+
+1. The Cloud interface should either be a pure open source experience(or close enough), so that students can transfer that learning on to their own installs on device. If the interface is significantly different, it should allow for a python notebook download . Kaggle fails here, but it is a great option. Some platforms for learning python, such as Dataquest.io, allow for a python notebook export. 
+2. Reasonable memory for processing and disk space for data 
+
 
 Wishlist 
 1. pure jupyter experience 
@@ -31,6 +33,8 @@ Wishlist
 
 
 - Paid 
+Hosted Jupyter Notebook on any cloud provider 
+
 
 
 
