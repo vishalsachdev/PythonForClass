@@ -26,17 +26,15 @@ Good for shorter projects, and some offer team collaboration features. Several f
 
 
 My Recommendation 
-- For short courses, or one off analytics exercises , go with hosting the notebook on github and use [MyBinder](https://ovh.mybinder.org/) for creating an interactive notebook. Another good option is [Google Colab](https://colab.research.google.com/), which is also well integrated with github. There is a [chrome extension](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=en)  as well, for opening any notebook on github, on Colab with one click. CoLab has a generous compute/memory/storage allocation. 
+- For short modules (couple of weeks)- Use [Google Colab](https://colab.research.google.com/), which is also well integrated with github. There is a [chrome extension](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=en)  as well, for opening any notebook on github, on Colab with one click. CoLab has a generous compute/memory/storage allocation. If you prefer the Microsoft stack, try [Azure](https://notebooks.azure.com/). 
+- For one off demo activity - Students dont need to get into code much. Cookbook approach. Go with hosting the notebook on github and use [MyBinder](https://ovh.mybinder.org/) for creating an interactive notebook. If you want to give it some interactivity, add an extension 
 - For semester long courses- Review paid options below. 
 
 
 - Paid 
 Since the software is open source, you will pay either for for hosting the notebooks(compute and data storage) on any cloud provider such as Microsoft, Google, or Amazon or you might pay for a full featured solution, where you get hosting/compute and an autograder with LTI integration into the Learning Management System. 
 
-1. Hosted Jupyter Notebook on any cloud provider - The university has a contract with 
-
-
-
+1. Hosted Jupyter Notebook on any cloud provider - The university has a contract with Amazon, which makes it easy to 
 
 
 
