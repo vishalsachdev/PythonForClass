@@ -19,51 +19,25 @@ My recommendation- Go with miniconda and then have students install the packages
 
 ## On Cloud 
 - Free
-Good for shorter projects, and some offer team collaboration features. Several free Google and Microsoft and others. One of the best comparison of six free options, is at https://www.dataschool.io/cloud-services-for-jupyter-notebook/ . From my perspective, the most important criteria is that the free option should be the following 
+Good for shorter projects, and some offer team collaboration features. Several free Google and Microsoft and others. One of the best comparison of six free options, is at [dataschool.io](https://www.dataschool.io/cloud-services-for-jupyter-notebook/) . From my perspective, the most important criteria for the free option should be the following 
 
 1. The Cloud interface should either be a pure open source experience(or close enough), so that students can transfer that learning on to their own installs on device. If the interface is significantly different, it should allow for a python notebook download . Kaggle fails here, but it is a great option. Some platforms for learning python, such as Dataquest.io, allow for a python notebook export. 
 2. Reasonable memory for processing and disk space for data 
 
 
-Wishlist 
-1. pure jupyter experience 
-2. One click deployment of code as interactive notebooks (mybinder, Google Collab ) - useful for quick start and short workshops. 
-3. LMS integration 
-
+My Recommendation 
+- For short courses, or one off analytics exercises , go with hosting the notebook on github and use https://ovh.mybinder.org/ for creating an interactive notebook. Another good option is [Google Colab](https://colab.research.google.com/), which is also well integrated with github. There is a [chrome extension](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=en)  as well, for opening any notebook on github, on Colab with one click. CoLab has a generous compute/memory/storage allocation. 
+- For semester long courses- Review paid options below. 
 
 
 - Paid 
-Hosted Jupyter Notebook on any cloud provider 
+Since the software is open source, you will pay either for for hosting the notebooks(compute and data storage) on any cloud provider such as Microsoft, Google, or Amazon or you might pay for a full featured solution, where you get hosting/compute and an autograder with LTI integration into the Learning Management System. 
+
+1. Hosted Jupyter Notebook on any cloud provider - The university has a contract with 
 
 
 
 
 
-You can use the [editor on GitHub](https://github.com/vishalsachdev/PythonForClass/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
