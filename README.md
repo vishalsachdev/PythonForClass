@@ -34,7 +34,13 @@ My Recommendation
 - Paid 
 Since the software is open source, you will pay either for for hosting the notebooks(compute and data storage) on any cloud provider such as Microsoft, Google, or Amazon or you might pay for a full featured solution, where you get hosting/compute and an autograder with LTI integration into the Learning Management System. 
 
-1. Hosted Jupyter Notebook on any cloud provider - The university has a contract with Amazon, which makes it easy to 
+1. Hosted Jupyter Notebook on any cloud provider - UIUC has a contract with cloud providers such as Amazon and Microsoft, and most schools would have some similar contracts. Some of these vendors offer custom/optimized jupyter hosted solutions ([amazon](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-managed-notebooks.html)) .
+
+2. LMS integration- Most LMS these days offer LTI integration, and opening Jupyter notebooks within an LMS is a trivial activity, and there are paid options, such as https://www.illumidesk.com/ (specific for Canvas). What would be ideal is to have an autograder do the grading, if you have large classes. Im currently reviewing a platform (https://www.vocareum.com/)  over the next 6 months with a few faculty, which provides LMS integration, clould hosting and autograding. Watch out for more details from that review. Do note that if you are the DIY techie, or have dedicated IT support, you could do LTI integration by yourself, and use an open source autograding solution (https://github.com/jupyter/nbgrader) , with helpful information at (https://gryd.us/autograding-using-jupyter-notebooks/). 
+
+My Recommendation- For business school faculty, who would rather go for a self-service approach, a paid hosted solution with a LMS integration with autograding would be the ideal option. We are evaluating one provider now, and will update the results soon. 
+
+This writeup focuses on hosting notebooks, but if you want help in the pedagogy around using jupyter notebooks in class, along with some help on hosting, I highly recommend a free e-book created by a group of faculty during a conference and updated often after that at https://jupyter4edu.github.io/jupyter-edu-book/ 
 
 
 
